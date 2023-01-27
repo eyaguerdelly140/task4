@@ -26,8 +26,4 @@ function MoodDetect(users) {
      }
      return users; 
 };
-  
-  
-    
-
 console.log(MoodDetect(users));
